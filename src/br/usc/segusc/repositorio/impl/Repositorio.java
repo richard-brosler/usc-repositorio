@@ -8,7 +8,7 @@ public class Repositorio implements IRepositorioService {
 	@Override
 	public String consultarLogin(String login) throws LoginInvalidoException {
 		// TODO Auto-generated method stub
-		return null;
+		return "senha";
 	}
 
 }
